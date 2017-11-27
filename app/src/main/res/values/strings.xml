@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Happy Tree Friends</string>
+
+    <string name="cuddles">Cuddles adalah karakter fiksi pada serial Happy Tree Friends.
+        Ia adalah kelinci/terwelu berwarna kuning dengan pipi merah jambu dan mengenakan sendal merah jambu berbentuk kelinci.
+        Cuddles adalah salah satu karakter utama serial Happy Tree Friends. Ia dibuat oleh Kenn Navarro.
+        Sifat Cuddles biasanya menyebabkan dia mati.
+        Ia adalah teman dari Toothy, Flaky, Giggles, Lumpy, dll.
+        Cuddles kebanyakan dibunuh oleh Flippy dan Lumpy.
+        Cuddles pun mempunyai hubungan sangat dekat dengan Giggles.</string>
+
+    <string name="giggles">Giggles adalah karakter fiksi pada kartun Happy Tree Friends.
+        Ia adalah sejenis Chipmunk berwarna merah jambu.
+        Ia adalah gadis muda yang periang dan agak pemalu. Petunia adalah teman baiknya.
+        Ia juga merupakan karakter pertama yang dibuat dengan Cuddles.
+        Ia sering mati, walaupun kematiannya tidak sadis seperti kematian Petunia.
+    </string>
+
+    <string name="toothy">Toothy adalah karakter fiksi pada serial kartun Happy Tree Friends. 
+        Ia adalah berang-berang berwarna ungu. 
+        Giginya merupakan yang terbesar dengan karakter lainnya, 
+        tetapi dalam beberapa episode, giginya normal seperti lainnya sebagai sebuah kesalahan. 
+        Toothy berteman baik dengan Cuddles. 
+        Terdapat satu sebab ia terkenal: ia telah mengalami kematian yang panjang dan mengerikan pada episode yang memenangkan penghargaan di Annecy International Animated Film Festival di Perancis, "Eye Candy".
+    </string>
+
+    <string name="lumpy">Lumpy adalah karakter fiksi dari serial kartuns Happy Tree Friends.
+        Ia adalah rusa berwarna biru muda yang tidak pintar.
+        Ia adalah salah satu karakter dewasa di kartun ini.
+        Lumpy muncul hampir di semua episode Happy Tree Friend.
+        Kebodohannya sering menyebabkan kematiannya, selain itu, ia menyebabkan kematian semua karakter kecuali Splendid.
+        Walaupun bodoh, kadang-kadang lumpy dapat menjalani profesi-profesi seperti dokter, petani, tukang pos, dan lain-lain.
+        Terkadang pekerjaan ini malah dapat membuat kekacauan yang lebih berat dari biasanya.
+    </string>
+
+    <string name="petunia">Petunia adalah karakter fiksi di Happy Tree Friends.
+        Ia adalah sigung biru dengan tanda panah putih di dahinya.
+        Giggles adalah teman baiknya. Sementara Giggles seperti anak kecil, Petunia lebih dewasa untuk umurnya.
+        Mereka pernah membuat stan limun bersama.
+        Di serial ini, Petunia biasanya mati dengan sangat sadis.
+        Terdapat bukti bahwa ia karakter Petunia dari stasiun televisi NET.
+        pada saat televisi swasta nasional Indonesia.
+        Setelah karakter Petunia oleh tokoh Happy Tree Friends pada tanggal 17 Agustus 2015, NET.
+        menjadi sukses stasiun televisi swasta, mendapatkan lebih dari detik-detik proklamasi.
+    </string>
+
+    <string name="nuty">Nutty adalah karakter fiksi dari serial kartun Happy Tree Friends.
+        Ia adalah tupai berwarna hijau muda yang sangat menggilai permen dan apapun yang terbuat dari gula.
+    </string>
+
+    <string name="sniffles">Sniffles adalah karakter fiksional pada serial kartun Happy Tree Friends.
+    Ia adalah trenggiling biru yang merupakan salah satu karakter pintar pada serial ini.
+    Ia suka membaca tentang ilmu pengetahuan alam dan matematika.
+    IQ Sniffles terbukti tinggi pada serial internet dan televisi.
+    Ia membangun hal yang jauh lebih hebat dibanding karakter lain, termasuk roket dari bus dan bahkan mesin waktu.
+    Namun, kadang-kadang peralatan tersebut dapat menjadi malafungsi dan menyebabkan kematiannya.
+    Ia juga memiliki beberapa pekerjaan, termasuk dokter dan pilot.
+    Sniffles juga suka makan semut, tetapi, justru semut malah membunuhnya setelah menyiksanya dengan sadis.
+    Hanya pada episode "Blast from the Past", Sniffle makan semut tanpa terbunuh.
+    </string>
+
+    <string name="flaky">Flaky adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Ia adalah landak merah yang merupakan salah satu karakter paling populer dengan sifat sangat pemalu.
+        Ia sering terlihat sebagai penakut.
+        Ketika ia bersama Cuddles, Flaky sering menyebabkan situasi yang buruk untuk mereka.
+        Flaky bukan karakter yang senang menolong.
+        Pada episode "Party Animal", ditemukan ia alergi pada kacang.
+        Ia juga takut terbang. Duri pada tubuhnya juga sering menyebabkan masalah.
+    </string>
+
+    <string name="handy">Handy adalah karakter fiksi dari serial kartun Happy Tree Friends.
+        Handy adalah beaver berwarna jingga dengan tangan yang diamputasi.
+        Ia mengenakan ikat pinggang peralatan dan helm kuning pekerja.
+        Ia juga merupakan salah satu karakter dewasa.
+        Ketika ia berusaha melakukan sesuatu, kadang-kadang ia justru malah terbunuh.</string>
+
+    <string name="mole">Mole atau bernama The Mole sampai episode A Sucker for Love adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Ia adalah tikus tanah berwarna lavender yang buta dan mengenakan kacamata hitam.
+        Seperti Mime dan Cro-Marmot, ia tidak berbicara.
+        Ia tidak hanya buta, tetapi ia juga bisu, namun ia tidak tuli, walaupun ia memiliki masalah pendengaran yang terlihat pada episode "Party Animal".
+        Kebutaannya sering menyebabkan masalah.</string>
+
+    <string name="bear">Disco Bear adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Ia adalah beruang emas yang suka menari disko.
+        Ia mengenakan pakaian gaya tahun 1970-an, termasuk jaket kuning.
+        Ia biasanya membawa semua orang ke masalah ketika menari.
+        Ia sering terlihat mencoba untuk membuat kagum karakter wanita lainnya, seperti Giggles dan Petunia, yang biasanya terbunuh saat unjuk kebolehannya.
+        Ia belum pernah terlihat merayu Flaky.
+        Disco bear mempunyai rumah mewah, dan mempunyai masalah dalam berat badan, pola makannya yang berlebihan kadang mengantarnya pada kematiannya sendiri.
+        Salah satu karakter yang sering terbunuh oleh Disco bear adalah Flaky Di episode as you wish, ia meminta bola disco raksasa yang malah membunuh dirinya sendiri dan orang lain.
+    </string>
+
+    <string name="russell">Russell adalah karakter fiksi serial kartun Happy Tree Friends.
+            Ia adalah bajak laut kalan dengan penampilan bajak laut.
+            Beberapa fans mengira ia adalah kucing karena kumisnya.
+            Terkadang, ketika ada pada situasi seram atau kekerasan, Russell akan gila dan mulai tertawa dengan sikap gila dan matanya berubah menjadi abu-abu, seperti pada episode "Get Whale Soon".
+            Karena Russell banyak menghabiskan waktunya di air, ia jarang terlihat dengan karakter lainnya.
+        </string>
+
+    <string name="mime">Mime adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Ia adalah rusa berwarna ungu dengan wajah yang dilukis dan mengenakan baju bergaris.
+        Ia tidak berbicara karena ia adalah artis pantomim yang membuat orang lain sulit mengerti keinginannya.
+        Ia sepertinya bisu, tetapi pada episode "Happy Trails" dan "Out of Sight, Out of Mime", ia mengeluarkan suara yang merupakan bukti ia bisa bicara, tetapi ia tidak mau.
+        Ia memiliki kemampuan sirkus. Mime digambarkan berusia 8-13 atau remaja karena besar tanduknya.
+    </string>
+
+    <string name="lifty">Lifty adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Mereka adalah dua rakun kleptomania yang merupakan saudara kembar.
+        Mereka suka mencuri benda-benda dari karakter Happy Tree Friends lainnya.
+        Mereka kebanyakan mencuri milik Lumpy. Sebenarnya Shifty merupakan karakter yang pertama kali diciptakan sebelum Cuddles.
+    </string>
+
+    <string name="shifty">Shifty adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Mereka adalah dua rakun kleptomania yang merupakan saudara kembar.
+        Mereka suka mencuri benda-benda dari karakter Happy Tree Friends lainnya.
+        Mereka kebanyakan mencuri milik Lumpy. Sebenarnya Shifty merupakan karakter yang pertama kali diciptakan sebelum Cuddles.
+    </string>
+
+    <string name="pop">Pop adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Ia adalah beruang berwarna coklat muda. Ia selalu muncul bersama Cub pada tiap episode.
+        Ia adalah ayah dari Cub. Anaknya sering mati karena perhatian dan ketidakperhatiannya, dan jelas, ia mencintai anaknya.
+        Biasanya ia tidak mengetahui kematian anaknya. Ketika ia mencoba menyelamatkan anaknya, ia malah tidak sengaja membunuhnya.
+        Satu-satunya episode saat Pop membunuh Cub adalah pada episode "Read 'em and Weep", karena Cub dirasuki setan gurita yang berasal dari buku jahat yang dijual Toothy yang memaksa Pop membunuhnya (padahal Lumpy telah mengeluarkan setan itu dari Cub).
+        Ia selamat hampir di semua episode, tetapi di serial televisi, dia lebih sering mati.
+    </string>
+
+    <string name="cub">Cub adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Ia adalah beruang yang sangat muda dan anak dari Pop.
+        Ia adalah karakter termuda dan terkecil di Happy Tree Friends.
+        Ia meninggal akibat ayahnya, walaupun Pop sayang padanya, Pop tidak sengaja membunuhnya dan Pop bahkan tidak tahu ia membunuh Cub.
+        Cub sangat jarang selamat pada kartun ini dan kematiannya biasanya mengerikan dan menyakitkan.
+    </string>
+
+    <string name="cro">Cro-Marmot adalah karakter fiksi pada serial kartun Happy Tree Friends yang tidak pernah mati.
+        Cro-Marmot adalah marmot prasejarah yang membeku di blok es besar.
+        Ia dapat melakukan berbagai hal di luar layar sementara terutup es, seperti melempar bola salju.
+        Untuk membiarkannya beku, Cro-Marmot tetap berada di daerah dingin
+        .dia berjualan es krim,dia mempunyai sebuah truk es krim yang selalu dibawanya pergi kemana-mana.
+    </string>
+
+    <string name="flippy">
+        Flippy adalah karakter berwarna hijau muda dari serial animasi Happy Tree Friends.
+        Ia adalah veteran perang. Pada tiap episode, ia mengenakan pakaian perang.
+        Terdapat bukti bahwa ia bertempur pada saat perang Vietnam.
+        Jika Flippy melihat sesuatu yang mengingatkannya pada perang, ia menjadi gila dan membunuh semua orang disekitarnya dan percaya bahwa ia masih berperang.
+        Ciri-ciri ia berubah adalah: warna matanya berubah, biasanya kuning atau hijau, suaranya berubah dari tinggi dan lucu menjadi rendah dan jahat, dan giginya menjadi bercabang.
+        Ia lemah dengan air. Dia pernah bekerja menjadi karyawan taman hiburan-dan akhirnya malah mengacau semuanya.
+        Biarpun begitu, Flippy sangat baik hati. Rumah Flippy rapi dan banyak barang-barang peninggalan perang.
+        Ia suka mendengkur seperti kucing saat tidur, untuk menenangkan sisi jahatnya, Flippy minum obat penenang yang bahaya bila diminum terlalu banyak.
+        Pada masa perangnya, dia secara tak sengaja membunuh teman perangnya yaitu Sneaky dan Mouse Ka-Boom.
+        Kejadian inilah yang mengakibatkan kepribadian jahatnya muncul.
+    </string>
+
+    <string name="splendid">Splendid adalah karakter fiksi pada serial animasi Happy Tree Friends.
+        Ia adalah pahlawan super. Ironisnya, walaupun ia pahlawan super, ia membunuh karakter lainnya yang berusaha ia selamatkan dan ini disebabkan oleh ketidak peduliannya pada kekuatannya.
+        Ia sering ditemui sedang melakukan pekerjaan rumahnya ketika ada karakter yang meminta pertolongan.
+    </string>
+
+    <string name="lammy">Lammy adalah karakter fiksi pada serial Happy Tree Friends juga sebagai karakter yang paling baru.
+            Ia adalah domba berwarna ungu dengan rambut putih berbulu, ekor berbulu dan mengenakan sweater putih berbulu.
+            Sahabatnya adalah acar hijau yang memakai topi dan memiliki kumis yang bernama Mr.
+            Pickels yang tiba-tibanya sangat jahat sekali.
+        </string>
+
+    <string name="pickles">Mr. Pickles adalah sebuah serial televisi animasi yang dibuat oleh Will Carsola dan Dave Stewart untuk Adult Swim.
+        Serial tersebut mengisahkan tentang keluarga Goodman, putra mereka yang berumur 6 tahun yang bernama Tommy dan seekor border collie milik keluarga tersebut, Mr. Pickles.
+        Serial tersebut mengeluarkan 10 episode seperempat jam untuk musim pertamanya, yang tayang perdana di jaringan tersebut pada 21 September 2014, setelah penayangan perdana musim keenam Squidbillies, dan berakhir pada 23 November 2014.
+        Sejak saat itu, serial tersebut diperbaharui untuk musim keduanya.
+    </string>
+
+    <string name="monkey">Buddhist Monkey adalah karakter fiksi pada serial kartun Happy Tree Friends.
+        Awalnya ia hendak menjadi karakter reguler serial Happy Tree Friends, namun, pencipta berpikir bahwa ia tidak cocok dengan sisanya.
+        Ia hanya karakter tidak reguler di Happy Tree Friends. Pada tahun 2003, episode "Enter The Garden" dirilis.
+        Ia adalah monyet yang beragama Buddha. Ia adalah orang yang tenang dan suka perpustakaan dan kebun yang tenang, tetapi ia akan marah ketika Generic Tree Ninjas merusak buku dan menghancurkan taman.
+        Ia adalah satu-satunya yang membunuh Generic Tree Ninjas.
+        Ia merupakan salah-satu karakter yang tidak pernah mat.
+    </string>
+
+
+</resources>
